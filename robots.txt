@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://synegieinfra.github.io/handbook-jgcmrp/sitemap.xml
